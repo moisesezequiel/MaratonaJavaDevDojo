@@ -1,7 +1,6 @@
-package devdojo.academy.introducaoOrientacaoObjetos.test;
+package devdojo.academy.AintroducaoClasses.test;
 
-import devdojo.academy.introducaoOrientacaoObjetos.domain.Estudante;
-import devdojo.academy.introducaoOrientacaoObjetos.domain.Professor;
+import devdojo.academy.AintroducaoClasses.domain.Professor;
 
 public class ProfessorTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package devdojo.academy.introducaoOrientacaoObjetos.domain;
+package devdojo.academy.AintroducaoClasses.domain;
 
 public class Professor {
 

@@ -1,7 +1,6 @@
-package devdojo.academy.introducaoOrientacaoObjetos.test;
+package devdojo.academy.AintroducaoClasses.test;
 
-import devdojo.academy.introducaoOrientacaoObjetos.domain.Carro;
-import devdojo.academy.introducaoOrientacaoObjetos.domain.Professor;
+import devdojo.academy.AintroducaoClasses.domain.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {
