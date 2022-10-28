@@ -12,9 +12,9 @@ import devdojo.academy.exercicio.domain.Funcionario;
 public class FuncionarioTest {
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario();
-        funcionario.nome = "Israel";
-        funcionario.idade = 2;
-        funcionario.salario = new double[]{21,24,42};
+        funcionario.setNome("Israel");
+        funcionario.setIdade(2);
+        funcionario.setSalario(new double[]{21,24,42});
 
         funcionario.imprimeDados();
 
